@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Boss of the SOC (BOTS) Dataset Version 1
 A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts. This page hosts information regarding the version 1 "Dataset." If you would like access to the CTF Scoreboard please visit the CTF Scoreboard github page.
 
@@ -107,3 +108,7 @@ This dataset contains evidence captured during actual computer security incident
 
 Authors
 Written in 2026 November by PRAVEEN
+=======
+# splunkbotsv1_nov2026
+splunkbotsv1_nov2026
+>>>>>>> parent of 2df9703 (botsv1 data was copied)
